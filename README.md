@@ -30,4 +30,10 @@ This project is part of my 1-month internship at **Prodigy Infotech**. The goal 
 ![Landing Page Screenshot](./screenshot.png) <!-- Replace with actual screenshot path -->
 
 ## 📁 Folder Structure
+responsive-landing-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
