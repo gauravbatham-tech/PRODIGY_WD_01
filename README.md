@@ -25,10 +25,6 @@ This project is part of my 1-month internship at **Prodigy Infotech**. The goal 
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📷 Screenshot
-
-![Landing Page Screenshot](./screenshot.png) <!-- Replace with actual screenshot path -->
-
 ## 📁 Folder Structure
 responsive-landing-page/
 │
